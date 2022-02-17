@@ -1,0 +1,55 @@
+{
+"rubrik": "Moneyleague",
+"tabell": [
+    {
+        "name": "Aik",
+        "points": 0,
+        "logo": "https://www.allsvenskan.se/_/image/0c02711d-d44e-4124-a555-0df3d8264551:0fb201f22e823629dada3ee33327a5b70963120b/width-110/AIK.svg"
+    },
+    {
+        "name": "malmö",
+        "points": 0,
+        "logo": "https://www.allsvenskan.se/_/image/982ca579-23cc-4cb7-b5c0-9c3e68ef6869:e3e98098c6a0c7feb580e169d7acf23354f57336/width-110/Malm%C3%B6%20FF.svg"
+    },
+    {
+        "name": "Elfsborg",
+        "points": 0,
+        "logo": "https://www.allsvenskan.se/_/image/de920f35-d501-470e-841d-9f869ab31cc2:ffe2b16812ce6a1afed7b6ae9d7dfeeadf8f8302/width-110/IF%20Elfsborg.svg"
+    },
+    {
+        "name": "Häcken",
+        "points": 0,
+        "logo": "https://www.allsvenskan.se/_/image/29528574-2d7b-43e2-9b91-89f3bfa74bdc:f981f4253c7e9711fe2c9449765cda15327af8aa/width-110/BK_H%C3%A4cken_logo.svg"
+    },
+    {
+        "name": "Djurgården",
+        "points": 0,
+        "logo": "https://www.allsvenskan.se/_/image/29528574-2d7b-43e2-9b91-89f3bfa74bdc:f981f4253c7e9711fe2c9449765cda15327af8aa/width-110/BK_H%C3%A4cken_logo.svg"
+    },
+
+    {
+        "name": "Norrköping",
+        "points": 0,
+        "logo": "https://www.allsvenskan.se/_/image/29528574-2d7b-43e2-9b91-89f3bfa74bdc:f981f4253c7e9711fe2c9449765cda15327af8aa/width-110/BK_H%C3%A4cken_logo.svg"
+    },
+    {
+        "name": "Örebro",
+        "points": 0,
+        "logo": "https://www.allsvenskan.se/_/image/29528574-2d7b-43e2-9b91-89f3bfa74bdc:f981f4253c7e9711fe2c9449765cda15327af8aa/width-110/BK_H%C3%A4cken_logo.svg"
+    },
+    {
+        "name": "Hammarby",
+        "points": 0,
+        "logo": "https://www.allsvenskan.se/_/image/29528574-2d7b-43e2-9b91-89f3bfa74bdc:f981f4253c7e9711fe2c9449765cda15327af8aa/width-110/BK_H%C3%A4cken_logo.svg"
+    },
+    {
+        "name": "Aik",
+        "points": 0,
+        "logo": "https://www.allsvenskan.se/_/image/29528574-2d7b-43e2-9b91-89f3bfa74bdc:f981f4253c7e9711fe2c9449765cda15327af8aa/width-110/BK_H%C3%A4cken_logo.svg"
+    },
+    {
+        "name": "ifk Göteborg",
+        "points": 0,
+        "logo": "https://www.allsvenskan.se/_/image/29528574-2d7b-43e2-9b91-89f3bfa74bdc:f981f4253c7e9711fe2c9449765cda15327af8aa/width-110/BK_H%C3%A4cken_logo.svg"
+    }
+]}
