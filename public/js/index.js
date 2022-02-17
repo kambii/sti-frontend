@@ -12,18 +12,19 @@ function clickMe(){
         xhr.open("GET", "/js/data.json")
         xhr.onload = function(){
             var data = JSON.parse(this.response)
-            console.log(data.rubrik)
-            createTable(data.tabell)
+            createTable(data)
         }
 
     xhr.send()
 }
 function createTable(data){
     var appElement = document.getElementById("app")
+    var aHeader = document.createElement("h1")
+    aHeader.innerHTML = data.title
     var aTable = document.createElement("table")
     appElement.appendChild(aTable)
-    for(resultRow of data.tabell ){
-        aTable.appendChild(resultRow)
+    for(resultRow of data.table){
+        aTable.appendChild(createRow(resultRow))
     }
 }
 
