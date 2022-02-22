@@ -15,3 +15,22 @@ app.get('/', function(req, res){
 app.listen(PORT, function(){
     console.log(`Server started on port ${PORT}`)
 })
+
+
+const navSlide = () => {
+    const burger = document.querySelector('.burger');
+    const nav = document.querySelector('.nav-links');
+
+    burger.addEventListener('click',()=>{
+        nav.classList.toggle('nav-active');
+    });
+}
+
+/*
+const app = ()=>{
+    navSlide();
+    navSlide();
+    navSlide();
+    navSlide();
+}
+*/
